@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ph/static/css/main.59d4099f.css",
-    "main.js": "/ph/static/js/main.3565430a.js",
+    "main.js": "/ph/static/js/main.c5ba3e85.js",
     "static/media/IRANSans-FaNum.ttf": "/ph/static/media/IRANSans-FaNum.108fac8774fe726cac7e.ttf",
     "index.html": "/ph/index.html",
     "main.59d4099f.css.map": "/ph/static/css/main.59d4099f.css.map",
-    "main.3565430a.js.map": "/ph/static/js/main.3565430a.js.map"
+    "main.c5ba3e85.js.map": "/ph/static/js/main.c5ba3e85.js.map"
   },
   "entrypoints": [
     "static/css/main.59d4099f.css",
-    "static/js/main.3565430a.js"
+    "static/js/main.c5ba3e85.js"
   ]
 }
